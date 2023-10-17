@@ -1,17 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2023-10-17T13:38:31.188Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="F_g7EPaaxj4ygjKIOe2W" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-17T13:40:02.850Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="dV1_AxorGey_tMg6JWS2" version="21.3.2" type="github">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
     <mxGraphModel dx="1114" dy="578" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="OW70eodI6QGYOFk5UgHM-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="OW70eodI6QGYOFk5UgHM-4" target="OW70eodI6QGYOFk5UgHM-3" edge="1">
+        <mxCell id="OW70eodI6QGYOFk5UgHM-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;jumpSize=5;" parent="1" source="OW70eodI6QGYOFk5UgHM-4" target="OW70eodI6QGYOFk5UgHM-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OW70eodI6QGYOFk5UgHM-4" value="开始" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="405" y="40" width="110" height="60" as="geometry" />
+          <mxGeometry x="405" y="25" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OW70eodI6QGYOFk5UgHM-14" value="结束备案" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="405" y="930" width="110" height="60" as="geometry" />
+          <mxGeometry x="405" y="765" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OW70eodI6QGYOFk5UgHM-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="OW70eodI6QGYOFk5UgHM-8" target="OW70eodI6QGYOFk5UgHM-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -20,56 +20,56 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OW70eodI6QGYOFk5UgHM-3" value="异地就医备案" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="400" y="150" width="120" height="60" as="geometry" />
+          <mxGeometry x="400" y="115" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fRFyi25Me6PVz4HwU8o--8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pq9lWNX9NpfvpXnbQwIX-3" target="OW70eodI6QGYOFk5UgHM-14">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="560" y="760" as="targetPoint" />
+            <mxPoint x="560" y="735" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="640" y="445" />
-              <mxPoint x="640" y="900" />
-              <mxPoint x="460" y="900" />
+              <mxPoint x="640" y="355" />
+              <mxPoint x="640" y="745" />
+              <mxPoint x="460" y="745" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="pq9lWNX9NpfvpXnbQwIX-3" value="乡镇医保窗口确认&lt;br&gt;是否已存在&lt;br&gt;有效备案信息" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="360" y="400" width="200" height="90" as="geometry" />
+          <mxGeometry x="360" y="310" width="200" height="90" as="geometry" />
         </mxCell>
         <mxCell id="pq9lWNX9NpfvpXnbQwIX-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="pq9lWNX9NpfvpXnbQwIX-3" target="OW70eodI6QGYOFk5UgHM-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OW70eodI6QGYOFk5UgHM-6" value="在荆州统一受理平台转诊备案" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="400" y="560" width="120" height="60" as="geometry" />
+          <mxGeometry x="400" y="465" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OW70eodI6QGYOFk5UgHM-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="OW70eodI6QGYOFk5UgHM-6" target="OW70eodI6QGYOFk5UgHM-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OW70eodI6QGYOFk5UgHM-8" value="在荆州统一受理平台出件，并记录台账" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="400" y="790" width="120" height="60" as="geometry" />
+          <mxGeometry x="400" y="655" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fRFyi25Me6PVz4HwU8o--1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OW70eodI6QGYOFk5UgHM-7" target="OW70eodI6QGYOFk5UgHM-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OW70eodI6QGYOFk5UgHM-7" value="审核备案信息" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="400" y="680" width="120" height="60" as="geometry" />
+          <mxGeometry x="400" y="565" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fRFyi25Me6PVz4HwU8o--4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lUG8p1Q0JQ3GMxAp1ghk-3" target="fRFyi25Me6PVz4HwU8o--3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lUG8p1Q0JQ3GMxAp1ghk-3" value="&lt;div&gt;所需材料：&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;1、有效身份凭证（社会保障卡或医保电子凭证或身份证件或户口本）&lt;/div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;2、异地就医登记备案表&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;3、具有转诊资质的定点医疗机构开具的转诊转院证明材料" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
-          <mxGeometry x="590" y="265" width="400" height="80" as="geometry" />
+          <mxGeometry x="580" y="205" width="400" height="80" as="geometry" />
         </mxCell>
         <mxCell id="OW70eodI6QGYOFk5UgHM-18" value="是" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="570" y="420" width="60" height="30" as="geometry" />
+          <mxGeometry x="570" y="325" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lUG8p1Q0JQ3GMxAp1ghk-4" value="否" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="440" y="510" width="60" height="30" as="geometry" />
+          <mxGeometry x="440" y="415" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fRFyi25Me6PVz4HwU8o--7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fRFyi25Me6PVz4HwU8o--3" target="pq9lWNX9NpfvpXnbQwIX-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fRFyi25Me6PVz4HwU8o--3" value="村居网办员收集相关材料" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="275" width="120" height="60" as="geometry" />
+          <mxGeometry x="400" y="215" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
