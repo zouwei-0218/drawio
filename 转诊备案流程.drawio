@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-17T09:01:54.731Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="ia6v8Woazvobtpok7T7u" version="21.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-17T09:05:29.587Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="5MEesGu-REYZU5HN1_lt" version="21.3.0" type="github">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
     <mxGraphModel dx="1434" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -21,7 +21,7 @@
             <mxPoint x="230" y="175" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="77e6c97f196da883-3" value="村居网办员、医保经办人" style="swimlane;html=1;startSize=40;" parent="77e6c97f196da883-1" vertex="1">
+        <mxCell id="77e6c97f196da883-3" value="村居网办员" style="swimlane;html=1;startSize=40;" parent="77e6c97f196da883-1" vertex="1">
           <mxGeometry y="60" width="320" height="510" as="geometry" />
         </mxCell>
         <mxCell id="OW70eodI6QGYOFk5UgHM-3" value="受理" style="rounded=0;whiteSpace=wrap;html=1;" parent="77e6c97f196da883-3" vertex="1">
