@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-17T13:27:30.569Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="ZWu0q5FBH3eXfAx-dE1m" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-17T13:31:30.212Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="DQ3CL32GkSGYyKcKJ0aE" version="21.3.2" type="github">
   <diagram name="第 1 页" id="zYQkf0oS7l_Wd5UYFt0w">
     <mxGraphModel dx="1114" dy="578" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -39,32 +39,37 @@
         <mxCell id="MoBmle4iaVLPQ8r7kCBZ-10" value="乡镇医保窗口审核材料&lt;br&gt;是否达到申请标准" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="175" y="320" width="190" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="MoBmle4iaVLPQ8r7kCBZ-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MoBmle4iaVLPQ8r7kCBZ-11" target="MoBmle4iaVLPQ8r7kCBZ-13">
+        <mxCell id="MoBmle4iaVLPQ8r7kCBZ-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MoBmle4iaVLPQ8r7kCBZ-11" target="MoBmle4iaVLPQ8r7kCBZ-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MoBmle4iaVLPQ8r7kCBZ-11" value="村居网办员在荆州受理平台进行门诊慢特病病种待遇认定申请" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="197" y="500" width="146" height="70" as="geometry" />
         </mxCell>
         <mxCell id="MoBmle4iaVLPQ8r7kCBZ-13" value="结束" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="670" width="120" height="80" as="geometry" />
+          <mxGeometry x="210" y="780" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="MoBmle4iaVLPQ8r7kCBZ-15" value="是" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="250" y="450" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MoBmle4iaVLPQ8r7kCBZ-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MoBmle4iaVLPQ8r7kCBZ-16" target="MoBmle4iaVLPQ8r7kCBZ-13">
+        <mxCell id="MoBmle4iaVLPQ8r7kCBZ-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MoBmle4iaVLPQ8r7kCBZ-16" target="MoBmle4iaVLPQ8r7kCBZ-13">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="500" y="565" />
-              <mxPoint x="500" y="620" />
-              <mxPoint x="270" y="620" />
+              <mxPoint x="500" y="740" />
+              <mxPoint x="270" y="740" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="MoBmle4iaVLPQ8r7kCBZ-16" value="告知原因及申请标准" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="490" width="120" height="60" as="geometry" />
+          <mxGeometry x="444" y="505" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MoBmle4iaVLPQ8r7kCBZ-20" value="否" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="384" y="350" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MoBmle4iaVLPQ8r7kCBZ-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MoBmle4iaVLPQ8r7kCBZ-21" target="MoBmle4iaVLPQ8r7kCBZ-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MoBmle4iaVLPQ8r7kCBZ-21" value="村居网办员将合格的材料送到乡便民服务大厅医保窗口处归档" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="197" y="630" width="146" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
