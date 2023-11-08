@@ -1,109 +1,109 @@
-<mxfile host="app.diagrams.net" modified="2023-11-08T14:58:36.743Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="mQuUkT2ifR9bR760F1n7" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-08T14:59:27.996Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="4glXD35nVvo2M1PFTh84" version="22.0.8" type="github">
   <diagram name="第 1 页" id="K2pr2-kOqKdabMJay9ct">
-    <mxGraphModel dx="2025" dy="1062" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1393" dy="730" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="4YErS2Mw58uNXcrevlrH-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="4YErS2Mw58uNXcrevlrH-1" target="4YErS2Mw58uNXcrevlrH-2" edge="1">
+        <mxCell id="4YErS2Mw58uNXcrevlrH-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=13;" parent="1" source="4YErS2Mw58uNXcrevlrH-1" target="4YErS2Mw58uNXcrevlrH-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4YErS2Mw58uNXcrevlrH-1" value="开始" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="4YErS2Mw58uNXcrevlrH-1" value="开始" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="290" y="59" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="4YErS2Mw58uNXcrevlrH-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="4YErS2Mw58uNXcrevlrH-2" target="4YErS2Mw58uNXcrevlrH-4" edge="1">
+        <mxCell id="4YErS2Mw58uNXcrevlrH-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=13;" parent="1" source="4YErS2Mw58uNXcrevlrH-2" target="4YErS2Mw58uNXcrevlrH-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4YErS2Mw58uNXcrevlrH-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="4YErS2Mw58uNXcrevlrH-2" target="4YErS2Mw58uNXcrevlrH-18" edge="1">
+        <mxCell id="4YErS2Mw58uNXcrevlrH-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;" parent="1" source="4YErS2Mw58uNXcrevlrH-2" target="4YErS2Mw58uNXcrevlrH-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4YErS2Mw58uNXcrevlrH-2" value="是否当年出生" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="4YErS2Mw58uNXcrevlrH-2" value="是否当年出生" style="rhombus;whiteSpace=wrap;html=1;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="240" y="179" width="220" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="4YErS2Mw58uNXcrevlrH-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="4YErS2Mw58uNXcrevlrH-4" target="4YErS2Mw58uNXcrevlrH-5" edge="1">
+        <mxCell id="4YErS2Mw58uNXcrevlrH-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=13;" parent="1" source="4YErS2Mw58uNXcrevlrH-4" target="4YErS2Mw58uNXcrevlrH-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="onWPsYcdJm6DuPUi20bE-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="4YErS2Mw58uNXcrevlrH-4" target="4YErS2Mw58uNXcrevlrH-15" edge="1">
+        <mxCell id="onWPsYcdJm6DuPUi20bE-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;" parent="1" source="4YErS2Mw58uNXcrevlrH-4" target="4YErS2Mw58uNXcrevlrH-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4YErS2Mw58uNXcrevlrH-4" value="&lt;div&gt;父母任意一方当年&lt;/div&gt;&lt;div&gt;是否在荆州市内参加医疗保险并&lt;/div&gt;&lt;div&gt;按规定缴费出生&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="4YErS2Mw58uNXcrevlrH-4" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;父母任意一方当年&lt;/div&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;是否在荆州市内参加医疗保险并&lt;/div&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;按规定缴费出生&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="240" y="307" width="220" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="4YErS2Mw58uNXcrevlrH-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="4YErS2Mw58uNXcrevlrH-5" target="4YErS2Mw58uNXcrevlrH-10" edge="1">
+        <mxCell id="4YErS2Mw58uNXcrevlrH-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=13;" parent="1" source="4YErS2Mw58uNXcrevlrH-5" target="4YErS2Mw58uNXcrevlrH-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4YErS2Mw58uNXcrevlrH-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="4YErS2Mw58uNXcrevlrH-5" target="4YErS2Mw58uNXcrevlrH-23" edge="1">
+        <mxCell id="4YErS2Mw58uNXcrevlrH-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;" parent="1" source="4YErS2Mw58uNXcrevlrH-5" target="4YErS2Mw58uNXcrevlrH-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4YErS2Mw58uNXcrevlrH-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="4YErS2Mw58uNXcrevlrH-10" target="4YErS2Mw58uNXcrevlrH-14" edge="1">
+        <mxCell id="4YErS2Mw58uNXcrevlrH-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;" parent="1" source="4YErS2Mw58uNXcrevlrH-10" target="4YErS2Mw58uNXcrevlrH-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="onWPsYcdJm6DuPUi20bE-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="4YErS2Mw58uNXcrevlrH-10" target="onWPsYcdJm6DuPUi20bE-5" edge="1">
+        <mxCell id="onWPsYcdJm6DuPUi20bE-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;" parent="1" source="4YErS2Mw58uNXcrevlrH-10" target="onWPsYcdJm6DuPUi20bE-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4YErS2Mw58uNXcrevlrH-10" value="是否在90天内登记" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="4YErS2Mw58uNXcrevlrH-10" value="是否在90天内登记" style="rhombus;whiteSpace=wrap;html=1;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="240" y="562" width="220" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="onWPsYcdJm6DuPUi20bE-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="4YErS2Mw58uNXcrevlrH-14" target="4YErS2Mw58uNXcrevlrH-25" edge="1">
+        <mxCell id="onWPsYcdJm6DuPUi20bE-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=13;" parent="1" source="4YErS2Mw58uNXcrevlrH-14" target="4YErS2Mw58uNXcrevlrH-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4YErS2Mw58uNXcrevlrH-14" value="需缴纳出生当年参保费用，自出生之日起享受基本医保待遇" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="4YErS2Mw58uNXcrevlrH-14" value="需缴纳出生当年参保费用，自出生之日起享受基本医保待遇" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="550" y="689" width="200" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="4YErS2Mw58uNXcrevlrH-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="4YErS2Mw58uNXcrevlrH-5" target="4YErS2Mw58uNXcrevlrH-10" edge="1">
+        <mxCell id="4YErS2Mw58uNXcrevlrH-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=13;" parent="1" source="4YErS2Mw58uNXcrevlrH-5" target="4YErS2Mw58uNXcrevlrH-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="onWPsYcdJm6DuPUi20bE-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="4YErS2Mw58uNXcrevlrH-15" target="4YErS2Mw58uNXcrevlrH-25" edge="1">
+        <mxCell id="onWPsYcdJm6DuPUi20bE-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=13;" parent="1" source="4YErS2Mw58uNXcrevlrH-15" target="4YErS2Mw58uNXcrevlrH-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4YErS2Mw58uNXcrevlrH-15" value="免缴出生当年参保费用，从自生之日起享受医保待遇" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="4YErS2Mw58uNXcrevlrH-15" value="免缴出生当年参保费用，从自生之日起享受医保待遇" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="547.5" y="307" width="205" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="onWPsYcdJm6DuPUi20bE-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="4YErS2Mw58uNXcrevlrH-18" target="4YErS2Mw58uNXcrevlrH-25" edge="1">
+        <mxCell id="onWPsYcdJm6DuPUi20bE-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=13;" parent="1" source="4YErS2Mw58uNXcrevlrH-18" target="4YErS2Mw58uNXcrevlrH-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4YErS2Mw58uNXcrevlrH-18" value="按普通人员参保登记并缴纳当年费用，有医保待遇6个月等待期。" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="4YErS2Mw58uNXcrevlrH-18" value="按普通人员参保登记并缴纳当年费用，有医保待遇6个月等待期。" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="550" y="179" width="200" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="onWPsYcdJm6DuPUi20bE-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="4YErS2Mw58uNXcrevlrH-23" target="4YErS2Mw58uNXcrevlrH-25" edge="1">
+        <mxCell id="onWPsYcdJm6DuPUi20bE-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=13;" parent="1" source="4YErS2Mw58uNXcrevlrH-23" target="4YErS2Mw58uNXcrevlrH-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4YErS2Mw58uNXcrevlrH-23" value="缴纳当年费用，与普通人员一样有医保待遇6个月等待期。" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="4YErS2Mw58uNXcrevlrH-23" value="缴纳当年费用，与普通人员一样有医保待遇6个月等待期。" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="550" y="434" width="200" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="4YErS2Mw58uNXcrevlrH-25" value="结束" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="4YErS2Mw58uNXcrevlrH-25" value="结束" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="810" y="59" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="4YErS2Mw58uNXcrevlrH-31" value="否" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="4YErS2Mw58uNXcrevlrH-31" value="否" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="460" y="442" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4YErS2Mw58uNXcrevlrH-32" value="否" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="4YErS2Mw58uNXcrevlrH-32" value="否" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="460" y="189" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4YErS2Mw58uNXcrevlrH-33" value="否" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="4YErS2Mw58uNXcrevlrH-33" value="否" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="330" y="397" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4YErS2Mw58uNXcrevlrH-35" value="否" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="4YErS2Mw58uNXcrevlrH-35" value="否" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="330" y="657" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4YErS2Mw58uNXcrevlrH-38" value="是" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="4YErS2Mw58uNXcrevlrH-38" value="是" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="330" y="527" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4YErS2Mw58uNXcrevlrH-39" value="是" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="4YErS2Mw58uNXcrevlrH-39" value="是" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="460" y="569" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4YErS2Mw58uNXcrevlrH-40" value="是" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="4YErS2Mw58uNXcrevlrH-40" value="是" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="330" y="267" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4YErS2Mw58uNXcrevlrH-5" value="新生儿户口是否在松滋市内的" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="4YErS2Mw58uNXcrevlrH-5" value="新生儿户口是否在松滋市内的" style="rhombus;whiteSpace=wrap;html=1;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="240" y="434" width="220" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="onWPsYcdJm6DuPUi20bE-4" value="是" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="onWPsYcdJm6DuPUi20bE-4" value="是" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="460" y="316" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="onWPsYcdJm6DuPUi20bE-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="onWPsYcdJm6DuPUi20bE-5" target="4YErS2Mw58uNXcrevlrH-25" edge="1">
+        <mxCell id="onWPsYcdJm6DuPUi20bE-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=13;" parent="1" source="onWPsYcdJm6DuPUi20bE-5" target="4YErS2Mw58uNXcrevlrH-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="onWPsYcdJm6DuPUi20bE-5" value="免缴出生当年参保费用，从自生之日起享受医保待遇" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="onWPsYcdJm6DuPUi20bE-5" value="免缴出生当年参保费用，从自生之日起享受医保待遇" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="550" y="562" width="200" height="80" as="geometry" />
         </mxCell>
       </root>
