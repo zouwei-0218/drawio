@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-08T08:45:26.246Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="YmdWROgYUCZIbAIJ4VPv" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-08T08:46:44.826Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="QmuxL69e7xi2uzurTjRn" version="22.0.8" type="github">
   <diagram name="第 1 页" id="K2pr2-kOqKdabMJay9ct">
     <mxGraphModel dx="1434" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -46,7 +46,7 @@
         <mxCell id="onWPsYcdJm6DuPUi20bE-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="4YErS2Mw58uNXcrevlrH-14" target="4YErS2Mw58uNXcrevlrH-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4YErS2Mw58uNXcrevlrH-14" value="按普通人员参保登记并缴纳当年费用，有医保待遇6个月等待期" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="4YErS2Mw58uNXcrevlrH-14" value="需缴纳出生当年参保费用，自出生之日起享受基本医保待遇" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="437.5" y="650" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="4YErS2Mw58uNXcrevlrH-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="4YErS2Mw58uNXcrevlrH-5" target="4YErS2Mw58uNXcrevlrH-10" edge="1">
