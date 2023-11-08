@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-08T14:41:35.371Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="ToYRJ_TJezJ3PXW5nYp-" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-08T14:54:26.324Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="B0IN1dLw6e7Bt4cbBbjo" version="22.0.8" type="github">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
-    <mxGraphModel dx="2228" dy="1168" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1311" dy="687" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -16,7 +16,7 @@
         <mxCell id="OW70eodI6QGYOFk5UgHM-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="frwr4MJD8rZcvQAvkq9S-1" source="OW70eodI6QGYOFk5UgHM-8" target="OW70eodI6QGYOFk5UgHM-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OW70eodI6QGYOFk5UgHM-3" value="受理，方式包括：乡镇便民服务大厅、村居便民服务站" style="rounded=0;whiteSpace=wrap;html=1;" parent="frwr4MJD8rZcvQAvkq9S-1" vertex="1">
+        <mxCell id="OW70eodI6QGYOFk5UgHM-3" value="乡镇便民服务大厅、村居便民服务站均可受理" style="rounded=0;whiteSpace=wrap;html=1;" parent="frwr4MJD8rZcvQAvkq9S-1" vertex="1">
           <mxGeometry y="108" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="OW70eodI6QGYOFk5UgHM-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;jumpSize=5;" parent="frwr4MJD8rZcvQAvkq9S-1" source="OW70eodI6QGYOFk5UgHM-4" target="OW70eodI6QGYOFk5UgHM-3" edge="1">
