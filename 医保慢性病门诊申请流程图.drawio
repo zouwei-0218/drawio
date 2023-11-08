@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-08T14:51:37.546Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="VOHxbZ9uB9eQRIJP31VA" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-08T14:52:32.390Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="DP2zgFoOHvc4XodlLmMi" version="22.0.8" type="github">
   <diagram name="第 1 页" id="zYQkf0oS7l_Wd5UYFt0w">
     <mxGraphModel dx="1393" dy="730" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -37,7 +37,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MoBmle4iaVLPQ8r7kCBZ-10" value="乡镇医保窗口审核材料&lt;br&gt;是否达到申请标准" style="rhombus;whiteSpace=wrap;html=1;flipV=1;" parent="1" vertex="1">
-          <mxGeometry x="215" y="380" width="190" height="110" as="geometry" />
+          <mxGeometry x="200" y="380" width="220" height="110" as="geometry" />
         </mxCell>
         <mxCell id="MoBmle4iaVLPQ8r7kCBZ-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="MoBmle4iaVLPQ8r7kCBZ-11" target="MoBmle4iaVLPQ8r7kCBZ-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -48,11 +48,19 @@
         <mxCell id="MoBmle4iaVLPQ8r7kCBZ-15" value="是" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="290" y="500" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="vSB2HKqjgQNLfzRTWTfq-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="1" source="MoBmle4iaVLPQ8r7kCBZ-16" target="MoBmle4iaVLPQ8r7kCBZ-25">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="580" y="1020" />
+              <mxPoint x="310" y="1020" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="MoBmle4iaVLPQ8r7kCBZ-16" value="告知原因及申请标准" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="480" y="550" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="MoBmle4iaVLPQ8r7kCBZ-20" value="否" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="405" y="410" width="60" height="30" as="geometry" />
+          <mxGeometry x="420" y="410" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vSB2HKqjgQNLfzRTWTfq-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="1" source="MoBmle4iaVLPQ8r7kCBZ-21" target="vSB2HKqjgQNLfzRTWTfq-3">
           <mxGeometry relative="1" as="geometry" />
@@ -61,13 +69,16 @@
           <mxGeometry x="210" y="670" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="MoBmle4iaVLPQ8r7kCBZ-25" value="结束" style="ellipse;whiteSpace=wrap;html=1;flipV=1;" parent="1" vertex="1">
-          <mxGeometry x="262" y="1040" width="96" height="60" as="geometry" />
+          <mxGeometry x="262" y="1060" width="96" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vSB2HKqjgQNLfzRTWTfq-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="1" source="vSB2HKqjgQNLfzRTWTfq-3" target="vSB2HKqjgQNLfzRTWTfq-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vSB2HKqjgQNLfzRTWTfq-3" value="市慢保科在医保专网审核慢保收件信息" style="rounded=1;whiteSpace=wrap;html=1;flipV=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="790" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vSB2HKqjgQNLfzRTWTfq-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="1" source="vSB2HKqjgQNLfzRTWTfq-4" target="MoBmle4iaVLPQ8r7kCBZ-25">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vSB2HKqjgQNLfzRTWTfq-4" value="在荆州受理平台进行出件，并记录台账" style="rounded=1;whiteSpace=wrap;html=1;flipV=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="920" width="200" height="80" as="geometry" />
