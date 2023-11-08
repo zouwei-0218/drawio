@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-08T08:46:44.826Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="QmuxL69e7xi2uzurTjRn" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-08T08:47:59.540Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="40GqqoSPaTsOX5k6aMKj" version="22.0.8" type="github">
   <diagram name="第 1 页" id="K2pr2-kOqKdabMJay9ct">
     <mxGraphModel dx="1434" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -41,13 +41,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4YErS2Mw58uNXcrevlrH-10" value="是否在90天内登记" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="130" y="530" width="220" height="80" as="geometry" />
+          <mxGeometry x="130" y="520" width="220" height="80" as="geometry" />
         </mxCell>
         <mxCell id="onWPsYcdJm6DuPUi20bE-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="4YErS2Mw58uNXcrevlrH-14" target="4YErS2Mw58uNXcrevlrH-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4YErS2Mw58uNXcrevlrH-14" value="需缴纳出生当年参保费用，自出生之日起享受基本医保待遇" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="437.5" y="650" width="200" height="80" as="geometry" />
+          <mxGeometry x="437.5" y="640" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="4YErS2Mw58uNXcrevlrH-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="4YErS2Mw58uNXcrevlrH-5" target="4YErS2Mw58uNXcrevlrH-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -83,13 +83,13 @@
           <mxGeometry x="220" y="354" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4YErS2Mw58uNXcrevlrH-35" value="否" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="220" y="640" width="60" height="30" as="geometry" />
+          <mxGeometry x="220" y="630" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4YErS2Mw58uNXcrevlrH-38" value="是" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="220" y="490" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4YErS2Mw58uNXcrevlrH-39" value="是" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="350" y="540" width="60" height="30" as="geometry" />
+          <mxGeometry x="350" y="530" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4YErS2Mw58uNXcrevlrH-40" value="是" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="220" y="220" width="60" height="30" as="geometry" />
@@ -104,7 +104,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="onWPsYcdJm6DuPUi20bE-5" value="免缴出生当年参保费用，从自生之日起享受医保待遇" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="530" width="200" height="80" as="geometry" />
+          <mxGeometry x="440" y="520" width="200" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
