@@ -1,9 +1,36 @@
-<mxfile host="app.diagrams.net" modified="2023-11-08T01:07:27.515Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" version="22.0.8" etag="qBiHmbz-9tkzir2uzk_0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-08T01:21:16.124Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="YN2Rbc1eX-FGQeCHGc0X" version="22.0.8" type="github">
   <diagram name="第 1 页" id="K2pr2-kOqKdabMJay9ct">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="4YErS2Mw58uNXcrevlrH-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4YErS2Mw58uNXcrevlrH-1" target="4YErS2Mw58uNXcrevlrH-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4YErS2Mw58uNXcrevlrH-1" value="开始" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="10" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4YErS2Mw58uNXcrevlrH-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4YErS2Mw58uNXcrevlrH-2" target="4YErS2Mw58uNXcrevlrH-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4YErS2Mw58uNXcrevlrH-2" value="是否当年出生" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="120" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4YErS2Mw58uNXcrevlrH-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4YErS2Mw58uNXcrevlrH-4" target="4YErS2Mw58uNXcrevlrH-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4YErS2Mw58uNXcrevlrH-4" value="&lt;div&gt;父母任意一方当年&lt;/div&gt;&lt;div&gt;是否在荆州市内参加医疗保险并&lt;/div&gt;&lt;div&gt;按规定缴费出生&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="240" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4YErS2Mw58uNXcrevlrH-5" value="新生儿户口是否在松滋市内的" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="240" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4YErS2Mw58uNXcrevlrH-8" value="免缴出生当年参保费用，从出生之日起享受医保待遇" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="165" y="360" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4YErS2Mw58uNXcrevlrH-10" value="是否在90天内登记" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="360" width="220" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
